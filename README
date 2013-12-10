@@ -1,0 +1,1 @@
+This is a simple to do list I created using html and jQuery. I used css to style it to look like a chalkboard. Items can be added to the list using the input field, and can be removed by clicking on the item.

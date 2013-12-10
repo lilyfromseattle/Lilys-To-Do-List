@@ -1,0 +1,34 @@
+body {
+    background-color:#8BFFEB;
+    background-image:url(http://www.thechalkboardkitchen.com/wp-content/uploads/2013/07/chalkboard.jpg)
+}
+h2 {
+    font-family: chalkduster;
+    color:white;
+    opacity:.75;
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    opacity:.75;
+    display: inline-block;
+    height:20px;
+	width:70px;
+	background-color:;
+	font-family:chalkduster;
+	font-weight:bold;
+	color:white;
+	border-radius: 10px;
+	text-align:center;
+	margin-top:2px;
+	border-color:white;
+}
+
+.list {
+	font-family:chalkduster;
+	color:white;
+	opacity:.75;
+}
